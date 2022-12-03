@@ -60,7 +60,7 @@ add this line to pubspec.yaml
     
       pull_to_refresh:
         git:
-          url: https://github.com/lauglam/pull_to_refresh.git
+          url: https://github.com/iusn/pull_to_refresh.git
     
 
 ```
